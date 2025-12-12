@@ -7,9 +7,9 @@ This repository provides the Python code used to build a graphical tool for clas
 ## Manuscript Information
 
 **Multi-Molecular Logic Framework Based on Morse Code, ASCII Logic, and Beale’s Cipher for Advanced Crypto-Steganography**
-**Authors:** Mohamed Nabeel Mattath, Yingying Lu, Ajith Manayil Parambil, Tian-Ming Yao, Jing-Jing Li, Rui-Min Zang, Song Hu*, and Shuo Shi*
+**Authors:** Mohamed Nabeel Mattath, Yingying Lu, Ajith Manayil Parambil, Yan Gao, Tian-Ming Yao, Jing-Jing Li, Rui-Min Zang, Song Hu*, and Shuo Shi*
 **Journal:** *Small* (Wiley), Submitted
-Corresponding Author: **Shuo Shi**
+Corresponding Author: **Song Hu, Shuo Shi**
 
 If you use this code, please cite the manuscript above.
 
